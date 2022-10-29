@@ -8,7 +8,13 @@
 </div>
 
 ###
+<br clear="both">
+
+<h2 align="left">💻My Current Status💻</h2>
+
 ###
+
+<p align="left">🧑‍💻Working on ✅REST API<br>🙋‍♂️LEARNING   ✅ MERN STACK <br>🧑‍💻Practising ✅ Data Structure and ✅ Problem Solving (Leetcode, Hackerrank and Interviewbit)</p>
 
 <br clear="both">
 
@@ -114,7 +120,6 @@
 
 ###
 <br clear="both">
-
+<!--
 <img src="https://raw.githubusercontent.com/Ruman-Hossain/Ruman-Hossain/blob/output/snake.svg" alt="Snake animation" />
-
-###
+-->
