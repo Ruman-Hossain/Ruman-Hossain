@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Md Ruman Hossain and I'm a Software Engineer, from Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Md Ruman Hossain and I'm a Software Engineer (<a href="https://foresightbyte.com/" target="_blank" >Foresightbyte Analytica Limited</a>) from Bangladesh</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Ruman-Hossain" height="150" alt="stats graph"  />
