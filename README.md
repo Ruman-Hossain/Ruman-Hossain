@@ -113,9 +113,8 @@
 </div>
 
 ###
-
 <br clear="both">
 
-<p align="left"></p>
+<img src="https://raw.githubusercontent.com/Ruman-Hossain/Ruman-Hossain/blob/output/snake.svg" alt="Snake animation" />
 
 ###
