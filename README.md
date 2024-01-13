@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🧑‍💻Working on ✅REST API<br>🙋‍♂️LEARNING   ✅ MERN STACK <br>🧑‍💻Practising ✅ Data Structure and ✅ Problem Solving (Leetcode, Hackerrank and Interviewbit)</p>
+<p align="left">🧑‍💻Working on ✅REST API<br>🧑‍💻Practising ✅ Data Structure and ✅ Problem Solving (Leetcode, Hackerrank and Interviewbit)</p>
 
 <br clear="both">
 
